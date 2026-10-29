@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <rect width="600" height="600" fill="#F3EFEA"/>
+  <rect x="60" y="60" width="480" height="480" rx="24" fill="#FAF8F5" stroke="#E6E1DA" stroke-width="3"/>
+  <g transform="translate(220, 190)" fill="none" stroke="#9A8174" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="10" y="10" width="140" height="120" rx="14"/>
+    <circle cx="52" cy="52" r="14"/>
+    <path d="M150 98 L108 60 L40 130"/>
+  </g>
+  <text x="300" y="370" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="600" fill="#3B2B25">ReUseHub Curated</text>
+  <text x="300" y="402" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#737373">Pre-Loved Item Preview</text>
+</svg>
